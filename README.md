@@ -52,3 +52,24 @@ df_pop_an = df[df["currency_code"] == 'EUR']
 print(df_pop_an.head())
 
 df_pop_an.drop(['currency_code'],axis=1)['population'].plot(kind='bar')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+******************************************************************
+
+
+aws cloudsearch create-domain --domain-name [YOUR_DOMAIN_NAME]
